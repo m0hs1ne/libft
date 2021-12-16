@@ -12,7 +12,7 @@
 	<img alt="Code language count" src="https://img.shields.io/github/languages/count/m0hs1ne/ft_libft?color=yellow" />
 	<img alt="GitHub top language" src="https://img.shields.io/github/languages/top/m0hs1ne/ft_libft?color=blue" />
 	<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/m0hs1ne/ft_libft?color=green" />
-	![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/mel-hada/Libft)
+	<img alt="Score" src="https://badge42.herokuapp.com/api/project/mel-hada/Libft" />
 </p>
 
 <h3 align="center">
